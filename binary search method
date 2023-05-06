@@ -29,3 +29,13 @@ int main()
         printf("Not found! %d is not present in the list.\n", search);
     return 0;
 }
+Output:
+Enter number of elements
+3
+Enter 3 integers
+11
+12
+13
+Enter value to find
+12
+12 found at location 2.
